@@ -12,7 +12,7 @@
 
  
 <!-- Image --> 
-# <div align="center"><img src="profile/Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
+# <div align="center"><img src="Yoshitha_Rathnayake.png" height="300px" alt="Yoshitha Rathnayake"></div>
 
 
 <!-- Auto Typing About -->
