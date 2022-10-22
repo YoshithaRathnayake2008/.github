@@ -212,7 +212,36 @@
 <p align="center">
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YoshithaRathnayake&theme=darkhub" />
 </p>
+
+<!-- Contribution Table -->
+ #
+<p align="center">
+   <i><b>CONTRIBUTION TABLE</b></i>
+</p>
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/YoshithaRathnayake/YoshithaRathnayake/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
  
+<!-- Most Worked Repositories -->
+ #
+ <p align="center">
+   <i><b>MOST WORKED REPOSITORIES</b></i>
+</p>
+
+#
+
+<div align="center">
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/YOSHITHA-WEBSITE) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=NEW-YOSHITHA-WEBSITE&theme=dark)](https://github.com/YoshithaRathnayake/https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=sack-site&theme=dark)](https://github.com/acf-sack/sack-site) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoshithaRathnayake&repo=sef-site&theme=dark)](https://github.com/sef-global/sef-site) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+</div>
  
  
 <!-- Archievements -->
@@ -237,7 +266,7 @@
   
 > Short Name :- <b><i>Yoshitha Rathnayake</i></b>
   
-> Phone Number :- <a href="tel:+94 076 707 3488"><b><i>+94 076 707 3488</i></b></a>
+> Phone Number :- <a href="tel:+94 72 825 9003"><b><i>+94 72 825 9003</i></b></a>
   
 > Email :- <a href="mailto:YoshithaRathnayake@yoshitha.tk"><b><i>YoshithaRathnayake@yoshitha.tk</i></b></a>
  
